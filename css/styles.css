@@ -1,10 +1,27 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(127, 150, 255);
-    background-image: url("images/814hgyKloyL._SL1396_.jpg");
-
+    background-image: url("https://images.pexels.com/videos/856991/free-video-856991.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: darkred;
+}
+h4 {
+    color: red;
+    font-size: 30px;
+    
+}
+p {
+    color: white;
+    font-size: 20px;
+}
+a {
+    color: yellow;
+    font-size: 25px;
+}
+.overlay{
+ opacity: 1.0;
+ background-color: rgba(0,0,0,0.5);  
 }
